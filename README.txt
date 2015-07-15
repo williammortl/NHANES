@@ -1,14 +1,20 @@
-NHanes analysis tools
-Author: William Michael Mortl
-Feel free to use this code for educational purposes, any other use
-     requires citations to: the NHANES study, William Michael Mortl,
-     Sriram Sankaranaraynan, and Fraser Cameron
-     
+NHanes Analysis Tools
+
+by William Mortl
+http://www.williammortl.com
+(c)2015
+
 NHANES: http://www.cdc.gov/nchs/nhanes.htm
 
+Written in Matlab / R
+There is no warranty implied with this code, and it is not to be used for commercial purposes without proper recompence. Feel free to use this code for educational purposes, any other use requires citations to: the NHANES study, William Michael Mortl, Sriram Sankaranaraynan, and Fraser Cameron
+
+
+
+Notes:
+------
+
 This document outlines how to use this code, and what files are generated.
-
-
 
 -------------------------------------------------------------
 | Create Meal Prediction Models and Simulate - Instructions |
